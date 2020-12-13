@@ -7,8 +7,8 @@ ____
 ____
 
 ## Production Dates
-- 12.15.20: Merkle Distribution Airdrop 
-- 12.22.20: Liquidity Mine
+- 12.15: Merkle Distribution Airdrop 
+- 12.22: Liquidity Mine
 
 # About Her
 Devico 8-12hrs daily. Open to collaborations once I have down time in January 2021 and onward. Recently decided to start blogging and you may track how that is going by visiting [Learn-Solidity.com](Learn-Solidity.com).
