@@ -7,8 +7,8 @@ ____
 ____
 
 ## Production Commitments
-- Tuesday, December 15th: Merkle Distribution Airdrop 
-- Tuesday, December 22nd: Liquidity Mine
+- Tuesday, December 15th: [Merkle Distribution Airdrop](https://github.com/CryptoUnico/merkle-distributor)
+- Tuesday, December 22nd: [Liquidity Mine](https://github.com/CryptoUnico/govtreasurer)
 
 # About Her
 Devico daily. Open to collaborations once I have down time in January 2021 and onward. Recently decided to start blogging and you may track how that is going by visiting [Learn-Solidity.com](Learn-Solidity.com).
