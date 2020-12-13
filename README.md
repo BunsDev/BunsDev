@@ -14,21 +14,17 @@ Devico daily. Open to collaborations once I have down time in January 2021 and o
 
 Looking to get involved? We are interested in recruiting **Smart Contract Developers** for Governor DAO, so please shoot me a message using any of my contact links above and let me know your strengths, experience, and a bit about yourself as well.
 
-## Publications and Proof of Work
+## Proof of Work
+### Production
+- [GOVDAO Bakery](https://easybake.finance)
 
-### Proof of Work
-#### Complete
-* [GOVDAO Bakery](https://easybake.finance)
+### Testing Phase
+- [Governor DAO Liquidity Mine](https://github.com/CryptoUnico/govtreasurer)
+- [Liquidity Mine](https://github.com/CryptoUnico/govtreasurer)
 
-#### Testing Phase
-* [Governor DAO Liquidity Mine](https://github.com/CryptoUnico/govtreasurer)
-* [Liquidity Mine](https://github.com/CryptoUnico/govtreasurer)
-
-#### Future Concepts
-
-### Publications
-* [On the GovernorDAO Treasury](https://soliditywiz.medium.com/on-the-governor-dao-treasury-fund-13d3525d5682) 
-* [How to: Develop Your Liquidity Mine](https://soliditywiz.medium.com/how-to-develop-your-liquidity-mine-9d47656fe678)
-* [Time (in) Smart Contract(s)](https://soliditywiz.medium.com/time-in-smart-contract-s-eec4a2fd108e)
-* [Cryptographic Hash Function](https://soliditywiz.medium.com/cryptographic-hash-function-beaa2408260)
-* [Merkle (Hash) Trees: Explained](https://soliditywiz.medium.com/merkle-hash-trees-explained-ea384f2af7e8)
+## Publications
+- [On the GovernorDAO Treasury](https://soliditywiz.medium.com/on-the-governor-dao-treasury-fund-13d3525d5682) 
+- [How to: Develop Your Liquidity Mine](https://soliditywiz.medium.com/how-to-develop-your-liquidity-mine-9d47656fe678)
+- [Time (in) Smart Contract(s)](https://soliditywiz.medium.com/time-in-smart-contract-s-eec4a2fd108e)
+- [Cryptographic Hash Function](https://soliditywiz.medium.com/cryptographic-hash-function-beaa2408260)
+- [Merkle (Hash) Trees: Explained](https://soliditywiz.medium.com/merkle-hash-trees-explained-ea384f2af7e8)
