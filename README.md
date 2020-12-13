@@ -1,7 +1,7 @@
 ____
 ## Contact Me
 [<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/CryptoUnico) [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/crypto_unico)<br>
-<img height = "278px" width = "494px" src = "https://media.giphy.com/media/154TZq3OVezAs/source.gif"><br>
+<img height = "200px" width = "494px" src = "https://media.giphy.com/media/154TZq3OVezAs/source.gif"><br>
 ![uni github stats](https://github-readme-stats.vercel.app/api?username=cryptounico&hide=["issues"]&show_icons=true)
 ____
 
