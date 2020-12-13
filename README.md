@@ -1,5 +1,6 @@
 ____
 <img src = "https://media.giphy.com/media/zyvX4znjfNqdG/source.gif"> <br>
+![uni github stats](https://github-readme-stats.vercel.app/api?username=cryptounico&hide=["issues"]&show_icons=true)<br><br>
 ____
 
 ## Production Commitments
@@ -9,7 +10,7 @@ ____
 ## About Uni (she)
 [<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/CryptoUnico)
 [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/crypto_unico)<br>
-![uni github stats](https://github-readme-stats.vercel.app/api?username=cryptounico&hide=["issues"]&show_icons=true)<br><br>
+
 
 Devico daily. Open to collaborations once I have down time in January 2021 and onward. Recently decided to start blogging and you may track how that is going by visiting [Learn-Solidity.com](Learn-Solidity.com).
 
