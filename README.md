@@ -6,11 +6,11 @@ ____
 
 ____
 
-# Currently Working On (for Governor DAO)
-- Merkle Distribution Airdrop (by December 15th); and 
-- Liquidity Mine (by December 22nd). 
+## Production Dates
+- 12.15.20: Merkle Distribution Airdrop 
+- 12.22.20: Liquidity Mine
 
-# Background and Whatnot
+# About Her
 Devico 8-12hrs daily. Open to collaborations once I have down time in January 2021 and onward. Recently decided to start blogging and you may track how that is going by visiting [Learn-Solidity.com](Learn-Solidity.com).
 
 Looking to get involved? We are interested in recruiting **Smart Contract Developers** for Governor DAO, so please shoot me a message using any of my contact links above and let me know your strengths, experience, and a bit about yourself as well. 
