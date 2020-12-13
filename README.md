@@ -19,9 +19,9 @@ Looking to get involved? We are interested in recruiting **Smart Contract Develo
 - [GOVDAO Bakery](https://easybake.finance): creative concept of a bakery that charges a baker's fee to those who stake to bake governance tokens.
 
 ### Testing Phase
-- [Liquidity Mine](https://github.com/CryptoUnico/govtreasurer): the official [Governor DAO](https://twitter.com/Governor_DAO) liquidity mine, which will supply 1.2M governance tokens at a slow drip, accounting for roughly one-third of the GDAO total supply.
+- [Liquidity Mine](https://github.com/CryptoUnico/govtreasurer): the official [GovernorDAO](https://twitter.com/Governor_DAO) liquidity mine, which will supply 1.2M governance tokens at a slow drip, accounting for roughly one-third of the GDAO total supply.
 
-- [Merkle Airdrop](https://github.com/CryptoUnico/merkle-distributor): the Official GovernorDAO Merkle Airdrop Distribution for those who survived the CBDAO Rug Pull event, read more about the rug pull of CBDAO just a few weeks after reaching a 50M Market Capitalization on [CryptoSlate](https://cryptoslate.com/trust-no-one-founders-of-once-50-million-ethereum-coin-rug-pull-users/). This is a fork of the UNI Merkle Distributor with a number of gamefied elements to incentivize participants to claim at a later date. For those who claim on day one, only 10% of the claim is available, increasing 1% daily until 100% is acheived. Also introduces a deflationary mechanism.
+- [Merkle Airdrop](https://github.com/CryptoUnico/merkle-distributor): the Official [GovernorDAO](https://twitter.com/GovernorDAO) Merkle Airdrop Distribution for CBDAO Rug Pull survivors. This is a fork of the Uniswap Merkle Distributor with a number of gamefied elements to incentivize participants to claim at a later date. For those who claim on day one, only 10% of the claim is available, increasing 1% daily until 100% is acheived. Also introduces a deflationary mechanism.
 
 ## Publications
 - [On the GovernorDAO Treasury](https://soliditywiz.medium.com/on-the-governor-dao-treasury-fund-13d3525d5682) 
