@@ -4,7 +4,6 @@ ____
 ____
 
 ## Production Commitments
-- Tuesday, December 15th: [Merkle Distribution Airdrop](https://github.com/CryptoUnico/merkle-distributor)
 - Tuesday, December 22nd: [Liquidity Mine](https://github.com/CryptoUnico/govtreasurer)
 
 ## About Uni (she)
@@ -21,9 +20,9 @@ Looking to get involved? We are interested in recruiting **Smart Contract Develo
 - [GOVDAO Bakery](https://easybake.finance): creative concept of a bakery that charges a baker's fee to those who stake to bake governance tokens.
 
 ### Testing Phase
-- [Liquidity Mine](https://github.com/CryptoUnico/govtreasurer): the official [GovernorDAO](https://twitter.com/Governor_DAO) liquidity mine, which will supply 1.2M governance tokens at a slow drip, accounting for roughly one-third of the GDAO total supply.
+- [Liquidity Mine](https://github.com/CryptoUnico/govtreasurer): the official [GovernorDAO](https://GovernorDAO.org) liquidity mine, which will supply 1.2M governance tokens at a slow drip, accounting for roughly one-third of the GDAO total supply.
 
-- [Merkle Airdrop](https://github.com/CryptoUnico/merkle-distributor): the Official [GovernorDAO](https://twitter.com/GovernorDAO) Merkle Airdrop Distribution for CBDAO Rug Pull survivors. This is a fork of the Uniswap Merkle Distributor with a number of gamefied elements to incentivize participants to claim at a later date. For those who claim on day one, only 10% of the claim is available, increasing 1% daily until 100% is acheived. Also introduces a deflationary mechanism.
+- [Merkle Airdrop](https://github.com/CryptoUnico/merkle-distributor): the Official [GovernorDAO](https://twitter.com/Governor_DAO) Merkle Airdrop Distribution for CBDAO Rug Pull survivors. Introduces a number of gamefied elements to incentivize participants to claim at a later date. For those who claim on day one, only 10% of the claim is available, increasing 1% daily until 100% is acheived. Also introduces a deflationary mechanism. [Contract](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code).
 
 ## Publications
 - [On the GovernorDAO Treasury](https://soliditywiz.medium.com/on-the-governor-dao-treasury-fund-13d3525d5682) 
