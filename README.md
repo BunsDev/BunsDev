@@ -16,13 +16,25 @@ Devico daily. Open to collaborations once I have down time in January 2021 and o
 Looking to get involved? We are interested in recruiting **Smart Contract Developers** for Governor DAO, so please shoot me a message using any of my contact links above and let me know your strengths, experience, and a bit about yourself as well.
 
 ## Proof of Work
-### Production
-- [GOVDAO Bakery](https://easybake.finance): creative concept of a bakery that charges a baker's fee to those who stake to bake governance tokens.
+### GOVDAO Bakery
+- [Github Repo](https://github.com/CryptoUnico/bakery) | [Rinkeby Front-End](https://easybake.finance/)
+- Testing grounds for GovTreasurer, the Official Treasurer of [GovernorDAO](http://GovernorDAO.org).
+- Creative concept of a bakery
+- Charges a baker's fee of 2% upon deposit
+- Stake to bake governance tokens.
 
-### Testing Phase
-- [Liquidity Mine](https://github.com/CryptoUnico/govtreasurer): the official [GovernorDAO](https://GovernorDAO.org) liquidity mine, which will supply 1.2M governance tokens at a slow drip, accounting for roughly one-third of the GDAO total supply.
+### Merkle Airdrop
+- [Github Repo](https://github.com/CryptoUnico/merkle-distributor) | [Smart Contract](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code) | [Front-End](https://airdrop.GovernorDAO.org)
+- Official [GovernorDAO](https://twitter.com/Governor_DAO) Merkle Airdrop Distribution for CBDAO Rug Pull survivors.
+- Gamefied elements to incentivize participants to claim at a later date
+- Rules: for those who claim on day one, only 10% of the claim is available, this amount increases 1% daily until 100% is reached.
+- Deflationary: 50% of forfeited tokens are burned forever, thus decreasing total max supply.
 
-- [Merkle Airdrop](https://github.com/CryptoUnico/merkle-distributor): the Official [GovernorDAO](https://twitter.com/Governor_DAO) Merkle Airdrop Distribution for CBDAO Rug Pull survivors. Introduces a number of gamefied elements to incentivize participants to claim at a later date. For those who claim on day one, only 10% of the claim is available, increasing 1% daily until 100% is acheived. Also introduces a deflationary mechanism. [Contract](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code).
+### Liquidity Mine
+- [Github Repo](https://github.com/CryptoUnico/govtreasurer) | [Rinkeby Smart Contract](https://rinkeby.etherscan.io/address/0x987d5ee8f2592b73f18dbc467ce831aa9c6ca6e2#code)
+- Official [GovernorDAO](https://GovernorDAO.org) liquidity mine
+- Slip drip, fair distribution of 1.2M GDAO governance tokens
+- Accounts for roughly one-third of the GDAO total supply.
 
 ## Publications
 - [On the GovernorDAO Treasury](https://soliditywiz.medium.com/on-the-governor-dao-treasury-fund-13d3525d5682) 
