@@ -31,7 +31,7 @@ Looking to get involved? We are interested in recruiting **Smart Contract Develo
 - Deflationary: 50% of forfeited tokens are burned forever, thus decreasing total max supply.
 
 ### Liquidity Mine
-- [Github Repo](https://github.com/CryptoUnico/govtreasurer) | [Rinkeby Smart Contract](https://rinkeby.etherscan.io/address/0x987d5ee8f2592b73f18dbc467ce831aa9c6ca6e2#code)
+- [Github Repo](https://github.com/CryptoUnico/govtreasurer) | [Rinkeby Smart Contract](https://rinkeby.etherscan.io/address/0xdf2a82d8a34f139f649000e43f60c921f769a947#code)
 - Official [GovernorDAO](https://GovernorDAO.org) liquidity mine
 - Slip drip, fair distribution of 1.2M GDAO governance tokens
 - Accounts for roughly one-third of the GDAO total supply.
