@@ -1,5 +1,4 @@
 ____
-<img src = "https://media.giphy.com/media/zyvX4znjfNqdG/source.gif" width="494" height="339.625"> <br>
 ![uni github stats](https://github-readme-stats.vercel.app/api?username=cryptounico&hide=["issues"]&show_icons=true)<br><br>
 ____
 
