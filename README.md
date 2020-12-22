@@ -24,12 +24,12 @@ Looking to get involved? We are interested in recruiting **Smart Contract Develo
 - [GitHub Repo](https://github.com/CryptoUnico/merkle-distributor) | [Smart Contract](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code) | [Front-End](https://airdrop.GovernorDAO.org)
 - Official [GovernorDAO](https://twitter.com/Governor_DAO) Merkle Airdrop Distribution for CBDAO Rug Pull survivors.
 - Gamefied elements to incentivize participants to claim at a later date.
-- Rules: for those who claim on day one, only 10% of the claim is available, this amount increases 1% daily until 100% is reached.
+- Rules: on day one, 10% of the claim is available and increases 1% daily until 100% is reached.
 - Deflationary: 50% of forfeited tokens are burned forever, thus decreasing total max supply.
 
 ### Liquidity Mine
-- [GitHub Repo](https://github.com/CryptoUnico/govtreasurer) | [Rinkeby Smart Contract](https://rinkeby.etherscan.io/address/0xdf2a82d8a34f139f649000e43f60c921f769a947#code)
-- Official [GovernorDAO](https://GovernorDAO.org) liquidity mine
+- [GitHub Repo](https://github.com/CryptoUnico/govtreasurer) | [Etherscan](http://etherscan.io/address/0x4DaC3e07316D2A31baABb252D89663deE8F76f09#code)
+- Official [GovernorDAO](https://GovernorDAO.org) liquidity mine.
 - Slip drip, fair distribution of 1.2M GDAO governance tokens
 - Accounts for roughly one-third of the GDAO total supply.
 
