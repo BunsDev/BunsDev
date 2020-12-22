@@ -19,14 +19,14 @@ Looking to get involved? We are interested in recruiting **Smart Contract Develo
 ### GOVDAO Bakery
 - [Github Repo](https://github.com/CryptoUnico/bakery) | [Rinkeby Front-End](https://easybake.finance/)
 - Testing grounds for GovTreasurer, the Official Treasurer of [GovernorDAO](http://GovernorDAO.org).
-- Creative concept of a bakery
-- Charges a baker's fee of 2% upon deposit
+- Creative concept of a bakery.
+- Charges a baker's fee of 2% upon deposit.
 - Stake to bake governance tokens.
 
 ### Merkle Airdrop
 - [Github Repo](https://github.com/CryptoUnico/merkle-distributor) | [Smart Contract](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code) | [Front-End](https://airdrop.GovernorDAO.org)
 - Official [GovernorDAO](https://twitter.com/Governor_DAO) Merkle Airdrop Distribution for CBDAO Rug Pull survivors.
-- Gamefied elements to incentivize participants to claim at a later date
+- Gamefied elements to incentivize participants to claim at a later date.
 - Rules: for those who claim on day one, only 10% of the claim is available, this amount increases 1% daily until 100% is reached.
 - Deflationary: 50% of forfeited tokens are burned forever, thus decreasing total max supply.
 
@@ -37,6 +37,7 @@ Looking to get involved? We are interested in recruiting **Smart Contract Develo
 - Accounts for roughly one-third of the GDAO total supply.
 
 ## Publications
+- [An Unruggable Airdrop](https://soliditywiz.medium.com/an-unruggable-airdrop-63c2ee9f242d)
 - [On the GovernorDAO Treasury](https://soliditywiz.medium.com/on-the-governor-dao-treasury-fund-13d3525d5682) 
 - [How to: Develop Your Liquidity Mine](https://soliditywiz.medium.com/how-to-develop-your-liquidity-mine-9d47656fe678)
 - [Time (in) Smart Contract(s)](https://soliditywiz.medium.com/time-in-smart-contract-s-eec4a2fd108e)
