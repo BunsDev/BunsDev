@@ -20,7 +20,7 @@ Looking to get involved? We are interested in recruiting **Smart Contract Develo
 - Stake to bake governance tokens.
 
 ### Merkle Airdrop
-- [GitHub Repo](https://github.com/CryptoUnico/merkle-distributor) | [Smart Contract](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code) | [Front-End](https://airdrop.GovernorDAO.org)
+- [GitHub Repo](https://github.com/CryptoUnico/merkle-distributor) | [Etherscan](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code) | [Front-End](https://airdrop.GovernorDAO.org)
 - Official [GovernorDAO](https://twitter.com/Governor_DAO) Merkle Airdrop Distribution for CBDAO Rug Pull survivors.
 - Gamefied elements to incentivize participants to claim at a later date.
 - Rules: on day one, 10% of the claim is available and increases 1% daily until 100% is reached.
