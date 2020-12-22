@@ -3,9 +3,6 @@ ____
 ![uni github stats](https://github-readme-stats.vercel.app/api?username=cryptounico&hide=["issues"]&show_icons=true)<br><br>
 ____
 
-## Production Commitments
-- Tuesday, December 22nd: [Liquidity Mine](https://github.com/CryptoUnico/govtreasurer)
-
 ## About Uni (she)
 [<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/CryptoUnico)
 [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/crypto_unico)<br>
@@ -17,24 +14,29 @@ Looking to get involved? We are interested in recruiting **Smart Contract Develo
 
 ## Proof of Work
 ### GOVDAO Bakery
-- [Github Repo](https://github.com/CryptoUnico/bakery) | [Rinkeby Front-End](https://easybake.finance/)
+- [GitHub Repo](https://github.com/CryptoUnico/bakery) | [Rinkeby Front-End](https://easybake.finance/)
 - Testing grounds for GovTreasurer, the Official Treasurer of [GovernorDAO](http://GovernorDAO.org).
 - Creative concept of a bakery.
 - Charges a baker's fee of 2% upon deposit.
 - Stake to bake governance tokens.
 
 ### Merkle Airdrop
-- [Github Repo](https://github.com/CryptoUnico/merkle-distributor) | [Smart Contract](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code) | [Front-End](https://airdrop.GovernorDAO.org)
+- [GitHub Repo](https://github.com/CryptoUnico/merkle-distributor) | [Smart Contract](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code) | [Front-End](https://airdrop.GovernorDAO.org)
 - Official [GovernorDAO](https://twitter.com/Governor_DAO) Merkle Airdrop Distribution for CBDAO Rug Pull survivors.
 - Gamefied elements to incentivize participants to claim at a later date.
 - Rules: for those who claim on day one, only 10% of the claim is available, this amount increases 1% daily until 100% is reached.
 - Deflationary: 50% of forfeited tokens are burned forever, thus decreasing total max supply.
 
 ### Liquidity Mine
-- [Github Repo](https://github.com/CryptoUnico/govtreasurer) | [Rinkeby Smart Contract](https://rinkeby.etherscan.io/address/0xdf2a82d8a34f139f649000e43f60c921f769a947#code)
+- [GitHub Repo](https://github.com/CryptoUnico/govtreasurer) | [Rinkeby Smart Contract](https://rinkeby.etherscan.io/address/0xdf2a82d8a34f139f649000e43f60c921f769a947#code)
 - Official [GovernorDAO](https://GovernorDAO.org) liquidity mine
 - Slip drip, fair distribution of 1.2M GDAO governance tokens
 - Accounts for roughly one-third of the GDAO total supply.
+
+### Swapico
+- [GitHub Repo](https://github.com/CryptoUnico/Swapico) | [Etherscan](https://etherscan.io/address/0xcc23ef76b46ed576caa5a1481f4400d2543f8006#code)
+- Swap an one pre-determined token for another at a 1:1 ratio, though modifiable.
+- Used for GDAO sLP to LP conversion.
 
 ## Publications
 - [An Unruggable Airdrop](https://soliditywiz.medium.com/an-unruggable-airdrop-63c2ee9f242d)
