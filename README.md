@@ -1,5 +1,5 @@
 ____
-![uni github stats](https://github-readme-stats.vercel.app/api?username=cryptounico&hide=["issues"]&show_icons=true)<br><br>
+![uni github stats](https://github-readme-stats.vercel.app/api?username=cryptounico&hide=["issues"]&show_icons=true)
 ____
 
 ## About Uni (she)
