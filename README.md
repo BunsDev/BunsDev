@@ -29,7 +29,7 @@ Looking to get involved? We are interested in recruiting **Smart Contract Develo
 ### Liquidity Mine
 - [GitHub Repo](https://github.com/CryptoUnico/govtreasurer) | [Etherscan](http://etherscan.io/address/0x4DaC3e07316D2A31baABb252D89663deE8F76f09#code)
 - Official [GovernorDAO](https://GovernorDAO.org) liquidity mine.
-- Slip drip, fair distribution of 1.2M GDAO governance tokens
+- Slow drip, fair distribution of 1.2M GDAO governance tokens
 - Accounts for roughly one-third of the GDAO total supply.
 
 ### Swapico
