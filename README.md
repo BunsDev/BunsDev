@@ -9,23 +9,28 @@ ____
 
 Devico daily. Recently decided to start blogging and you may track how that is going by visiting [Learn-Solidity.com](Learn-Solidity.com). Looking to get involved? We are interested in recruiting **Smart Contract Developers** for Governor DAO, so please shoot me a message using any of my contact links above and let me know your strengths, experience, and a bit about yourself as well.
 
-## Proof of Work
+## Q4 2020 - Present
 
-### Merkle Airdrop
+### Governator: Swap any ERC-20 for the UNI-V2 pair with ETH
+- [GitHub Repo](https://github.com/CryptoUnico/Governator) | [Etherscan](https://etherscan.io/address/0x09e16ad071f4f80c02856275116cc772ba74b62c)
+- Enables you to swap any ERC-20 for its UNI-V2 pair with ETH.
+- Sends 2% of each transaction to the Governor Treasury as a tax.
+
+### GovTreasurer (Liquidity Mine): GDAO Liquidity Fair Distribution with 2% Tax for Treasury
+- [GitHub Repo](https://github.com/CryptoUnico/govtreasurer) | [Etherscan](http://etherscan.io/address/0x4DaC3e07316D2A31baABb252D89663deE8F76f09#code) | [Front-End](https://mine.GovernorDAO.org)
+- Official Liquidity Mine for [GovernorDAO](https://GovernorDAO.org).
+- Slow drip, fair distribution of 1.2M GDAO governance tokens.
+- Accounts for roughly one-third of the GDAO total supply.
+
+### Merkle Airdrop: Strategic Vested Airdrop with built-in HODL Incentives
 - [GitHub Repo](https://github.com/CryptoUnico/merkle-distributor) | [Etherscan](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code) | [Front-End](https://airdrop.GovernorDAO.org)
 - Official [GovernorDAO](https://twitter.com/Governor_DAO) Merkle Airdrop Distribution for CBDAO Rug Pull survivors.
 - Gamefied elements to incentivize participants to claim at a later date.
 - Rules: on day one, 10% of the claim is available and increases 1% daily until 100% is reached.
 - Deflationary: 50% of forfeited tokens are burned forever, thus decreasing total max supply.
 
-### Liquidity Mine
-- [GitHub Repo](https://github.com/CryptoUnico/govtreasurer) | [Etherscan](http://etherscan.io/address/0x4DaC3e07316D2A31baABb252D89663deE8F76f09#code) | [Front-End](https://mine.GovernorDAO.org)
-- Official Liquidity Mine for [GovernorDAO](https://GovernorDAO.org).
-- Slow drip, fair distribution of 1.2M GDAO governance tokens.
-- Accounts for roughly one-third of the GDAO total supply.
-
-### Swapico
-- [GitHub Repo](https://github.com/CryptoUnico/Swapico) | [Etherscan](https://etherscan.io/address/0xcc23ef76b46ed576caa5a1481f4400d2543f8006#code)
+### Swapico: Swap the GDAO-ETH sLP for the UNI-V2 LP
+- [GitHub Repo](https://github.com/CryptoUnico/Swapico) | [Etherscan](https://etherscan.io/address/0xcc23ef76b46ed576caa5a1481f4400d2543f8006#code) | [Front-End](https://swap.governordao.org)
 - Swap an one pre-determined token for another at a 1:1 ratio, though modifiable.
 - Used for GDAO sLP to LP conversion.
 
