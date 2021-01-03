@@ -7,17 +7,9 @@ ____
 [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/crypto_unico)<br>
 
 
-Devico daily. Open to collaborations once I have down time in January 2021 and onward. Recently decided to start blogging and you may track how that is going by visiting [Learn-Solidity.com](Learn-Solidity.com).
-
-Looking to get involved? We are interested in recruiting **Smart Contract Developers** for Governor DAO, so please shoot me a message using any of my contact links above and let me know your strengths, experience, and a bit about yourself as well.
+Devico daily. Recently decided to start blogging and you may track how that is going by visiting [Learn-Solidity.com](Learn-Solidity.com). Looking to get involved? We are interested in recruiting **Smart Contract Developers** for Governor DAO, so please shoot me a message using any of my contact links above and let me know your strengths, experience, and a bit about yourself as well.
 
 ## Proof of Work
-### GOVDAO Bakery
-- [GitHub Repo](https://github.com/CryptoUnico/bakery) | [Rinkeby Front-End](https://easybake.finance/)
-- Testing grounds for GovTreasurer, the Official Treasurer of [GovernorDAO](http://GovernorDAO.org).
-- Creative concept of a bakery.
-- Charges a baker's fee of 2% upon deposit.
-- Stake to bake governance tokens.
 
 ### Merkle Airdrop
 - [GitHub Repo](https://github.com/CryptoUnico/merkle-distributor) | [Etherscan](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code) | [Front-End](https://airdrop.GovernorDAO.org)
@@ -27,9 +19,9 @@ Looking to get involved? We are interested in recruiting **Smart Contract Develo
 - Deflationary: 50% of forfeited tokens are burned forever, thus decreasing total max supply.
 
 ### Liquidity Mine
-- [GitHub Repo](https://github.com/CryptoUnico/govtreasurer) | [Etherscan](http://etherscan.io/address/0x4DaC3e07316D2A31baABb252D89663deE8F76f09#code)
-- Official [GovernorDAO](https://GovernorDAO.org) liquidity mine.
-- Slow drip, fair distribution of 1.2M GDAO governance tokens
+- [GitHub Repo](https://github.com/CryptoUnico/govtreasurer) | [Etherscan](http://etherscan.io/address/0x4DaC3e07316D2A31baABb252D89663deE8F76f09#code) | [Front-End](https://mine.GovernorDAO.org)
+- Official Liquidity Mine for [GovernorDAO](https://GovernorDAO.org).
+- Slow drip, fair distribution of 1.2M GDAO governance tokens.
 - Accounts for roughly one-third of the GDAO total supply.
 
 ### Swapico
