@@ -11,6 +11,11 @@ Devico daily. Recently decided to start blogging and you may track how that is g
 
 ## Q4 2020 - Present
 
+### LoyaltyMine.sol: Single-Asset Staking 
+- [GitHub Repo](https://github.com/CryptoUnico/ModicoStaking) | [Etherscan](https://etherscan.io/address/0xda58927f4065f1d02a6ea850c2aac49d7362a643#code)
+- Smart contract designed to reward LOYAL tokens to users staking GDAO.
+- LOYAL is a non-transferable ERC20 token designed to be used as an incentive to for users to hold their token while we build out the Governor DAO ecosystem.
+
 ### Governator: Swap any ERC-20 for the UNI-V2 pair with ETH
 - [GitHub Repo](https://github.com/CryptoUnico/Governator) | [Etherscan](https://etherscan.io/address/0x09e16ad071f4f80c02856275116cc772ba74b62c)
 - Enables you to swap any ERC-20 for its UNI-V2 pair with ETH.
