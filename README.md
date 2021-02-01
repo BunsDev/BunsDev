@@ -40,6 +40,7 @@ Devico daily. Recently decided to start blogging and you may track how that is g
 - Used for GDAO sLP to LP conversion.
 
 ## Publications
+- [Automating Smart Contracts](https://soliditywiz.medium.com/smart-contract-automation-ca109805b23a)
 - [An Unruggable Airdrop](https://soliditywiz.medium.com/an-unruggable-airdrop-63c2ee9f242d)
 - [On the GovernorDAO Treasury](https://soliditywiz.medium.com/on-the-governor-dao-treasury-fund-13d3525d5682) 
 - [How to: Develop Your Liquidity Mine](https://soliditywiz.medium.com/how-to-develop-your-liquidity-mine-9d47656fe678)
