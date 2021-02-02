@@ -6,8 +6,7 @@ ____
 [<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/CryptoUnico)
 [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/crypto_unico)<br>
 
-
-Devico daily. Recently decided to start blogging and you may track how that is going by visiting [Learn-Solidity.com](Learn-Solidity.com). Looking to get involved? We are interested in recruiting **Smart Contract Developers** for Governor DAO, so please shoot me a message using any of my contact links above and let me know your strengths, experience, and a bit about yourself as well.
+Smart Contract Lead for Governor DAO. Contract devico for a few others. Recently decided to start blogging and you may track how that is going by visiting [Learn-Solidity.com](Learn-Solidity.com).
 
 ## Q4 2020 - Present
 
