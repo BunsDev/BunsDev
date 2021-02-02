@@ -11,7 +11,7 @@ Smart Contract Lead for Governor DAO. Contract devico for a few others. Recently
 ## Q4 2020 - Present
 
 ### LoyaltyMine.sol: Single-Asset Staking 
-- [GitHub Repo](https://github.com/CryptoUnico/ModicoStaking) | [Etherscan](https://etherscan.io/address/0xda58927f4065f1d02a6ea850c2aac49d7362a643#code)
+- [GitHub Repo](https://github.com/CryptoUnico/LoyaltyMine) | [Etherscan](https://etherscan.io/address/0xda58927f4065f1d02a6ea850c2aac49d7362a643#code)
 - Smart contract designed to reward LOYAL tokens to users staking GDAO.
 - LOYAL is a non-transferable ERC20 token designed to be used as an incentive to for users to hold their token while we build out the Governor DAO ecosystem.
 
