@@ -6,7 +6,7 @@ ____
 [<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/CryptoUnico)
 [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/crypto_unico)<br>
 
-Smart Contract Lead for Governor DAO. Contract devico for a few others. Recently decided to start blogging and you may track how that is going by visiting [Learn-Solidity.com](Learn-Solidity.com).
+Cofounder and Lead Smart Contract Developer for [Governor DAO](https://GovernorDAO.org). Contract devico for a few others. Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain development.
 
 ## Q4 2020 - Present
 
