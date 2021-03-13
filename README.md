@@ -6,7 +6,7 @@ ____
 [<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/CryptoUnico)
 [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/crypto_unico)<br>
 
-Cofounder and Lead Smart Contract Developer for [Governor DAO](https://GovernorDAO.org). Contract Contributor and Technical (Blockchain) Advisor for: [UniLayer](https://Unilayer.app), [MetaFactory](https//MetaFactory.ai), [EasyBake](https://EasyBake.finance), and others. Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain development.
+Cofounder and Lead Smart Contract Developer for [Governor DAO](https://GovernorDAO.org). Contract Contributor and Technical (Blockchain) Advisor for: [UniLayer](https://Unilayer.app), [MetaFactory](https://metafactory.ai/), [EasyBake](https://EasyBake.finance), and others. Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain development.
 
 ## Q4 2020 - Present
 
