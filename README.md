@@ -8,7 +8,17 @@ ____
 
 Founder of [EasyBake](https://EasyBake.finance), MasterChef of [MakiSwap](https://Makiswap.com) and DAOveloper at [Unilayer](https://Unilayer.app). Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain development.
 
-## Q4 2020 - Present
+## 2021
+
+### Maki Farm
+- [GitHub Repo](https://github.com/Makiswap-Protocol/maki-farm)
+- Core smart contracts for the farming components of Makiswap Protocol on Huobi (HECO).
+
+### EasyBake Bakery
+- [GitHub Repo](https://github.com/EasyBakeSwap/Easybake-Bakery)
+- Core smart contracts for the farming components of EasyBake Finance.
+
+## Q4 2020
 
 ### LoyaltyMine.sol: Single-Asset Staking 
 - [GitHub Repo](https://github.com/CryptoUnico/LoyaltyMine) | [Etherscan](https://etherscan.io/address/0xda58927f4065f1d02a6ea850c2aac49d7362a643#code)
