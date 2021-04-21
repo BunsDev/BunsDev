@@ -6,7 +6,7 @@ ____
 [<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/CryptoUnico)
 [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/crypto_unico)<br>
 
-Founder of [EasyBake](https://EasyBake.finance). Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain development.
+Founder of [EasyBake](https://EasyBake.finance), MasterChef of [MakiSwap](https://Makiswap.com) and DAOveloper at [Unilayer](https://Unilayer.app). Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain development.
 
 ## Q4 2020 - Present
 
