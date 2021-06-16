@@ -1,5 +1,5 @@
 ____
-![uni github stats](https://github-readme-stats.vercel.app/api?username=cryptounico&hide=["issues"]&show_icons=true)
+![uni github stats](https://github-readme-stats.vercel.app/api?username=bunsdev&hide=["issues"]&show_icons=true)
 ____
 
 ## About Buns
