@@ -3,8 +3,8 @@ ____
 ____
 
 ## About Buns
-[<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/CryptoUnico)
-[<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/crypto_unico)<br>
+[<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/BunsDev)
+[<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/bunsdev)<br>
 
 Founder of [EasyBake](https://EasyBake.finance), MasterChef of [MakiSwap](https://Makiswap.com) and DAOveloper at [Unilayer](https://Unilayer.app). <br>
 Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain development.
