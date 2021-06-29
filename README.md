@@ -24,7 +24,7 @@ Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain
 ### LoyaltyMine.sol: Single-Asset Staking 
 - [GitHub Repo](https://github.com/CryptoUnico/LoyaltyMine)
 - Smart contract designed to reward LOYAL tokens to stakers.
-- LOYAL is a non-transferable ERC20 token designed to be used as an incentive to for users to hold their token while we build out the Governor DAO ecosystem.
+- LOYAL is a non-transferable ERC20 token designed to be used as an incentive to for users to hold their token while we build out the DAO ecosystem.
 
 ### MerkleDistributor.sol (Gamed Airdrop): Strategic Vested Airdrop with built-in HODL Incentives
 - [GitHub Repo](https://github.com/CryptoUnico/merkle-distributor) | [Etherscan](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code)
@@ -36,6 +36,7 @@ Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain
 - Swap an one token for another at a user-specified ratio.
 
 ## Publications
+- [Assert vs. Revert](https://soliditywiz.medium.com/assert-vs-require-730148b385e0)
 - [Automating Smart Contracts](https://soliditywiz.medium.com/smart-contract-automation-ca109805b23a)
 - [An Unruggable Airdrop](https://soliditywiz.medium.com/an-unruggable-airdrop-63c2ee9f242d)
 - [How to: Develop Your Liquidity Mine](https://soliditywiz.medium.com/how-to-develop-your-liquidity-mine-9d47656fe678)
