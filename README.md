@@ -1,14 +1,11 @@
 ____
 ![uni github stats](https://github-readme-stats.vercel.app/api?username=bunsdev&hide=["issues"]&show_icons=true)
 
-<img src="https://media.giphy.com/media/q966pc8LlOUPx29X3W/giphy.gif" />
+<img height=400 width=500 src="https://media.giphy.com/media/xT77XGs5Kw0nh1TRC0/giphy.gif" />
 
-[<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/BunsDev) [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/bunsdev) (Co)Founder of [SoulSwap Finance](https://SoulSwap.finance) <br>
-Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain development.
-
-## 2021
-
+[<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/BunsDev) [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/bunsdev) <br>
 ### SoulSwap Finance
+- (Co)Founder, [SoulSwap Finance](https://SoulSwap.finance)
 - [Github Organization](https://github.com/SoulSwapFinance)
 
 ### Maki Farm
@@ -18,8 +15,6 @@ Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain
 ### EasyBake Bakery
 - [GitHub Repo](https://github.com/EasyBakeSwap/Easybake-Bakery)
 - Core smart contracts for the farming components of EasyBake Finance.
-
-## Q4-2020
 
 ### LoyaltyMine.sol: Single-Asset Staking 
 - [GitHub Repo](https://github.com/CryptoUnico/LoyaltyMine)
