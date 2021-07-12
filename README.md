@@ -1,12 +1,9 @@
 ____
 ![uni github stats](https://github-readme-stats.vercel.app/api?username=bunsdev&hide=["issues"]&show_icons=true)
-____
 
-## About Buns
-[<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/BunsDev)
-[<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/bunsdev)<br>
+<img src="https://media.giphy.com/media/q966pc8LlOUPx29X3W/giphy.gif" />
 
-(Co)Founder of [SoulSwap Finance](https://SoulSwap.finance), MasterChef of [MakiSwap Protocol](https://Makiswap.com). <br>
+[<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/BunsDev) [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/bunsdev) (Co)Founder of [SoulSwap Finance](https://SoulSwap.finance) <br>
 Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain development.
 
 ## 2021
