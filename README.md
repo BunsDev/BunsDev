@@ -6,10 +6,13 @@ ____
 [<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/BunsDev)
 [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/bunsdev)<br>
 
-Founder of [EasyBake](https://EasyBake.finance), MasterChef of [MakiSwap](https://Makiswap.com) and DAOveloper at [Unilayer](https://Unilayer.app). <br>
+(Co)Founder of [SoulSwap Finance](https://SoulSwap.finance), MasterChef of [MakiSwap Protocol](https://Makiswap.com). <br>
 Checkout my [blog](https://SolidityWiz.medium.com) covering topics in blockchain development.
 
 ## 2021
+
+### SoulSwap Finance
+- [Github Organization](https://github.com/SoulSwapFinance)
 
 ### Maki Farm
 - [GitHub Repo](https://github.com/Makiswap-Protocol/maki-farm)
