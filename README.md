@@ -3,7 +3,7 @@ ____
 
 <img height=400 width=500 src="https://media.giphy.com/media/xT77XGs5Kw0nh1TRC0/giphy.gif" />
 
-[<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/BunsDev) [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/bunsdev) <br>
+[<img height="20px" src="https://cdn.svgporn.com/logos/twitter.svg">](https://twitter.com/0xBuns) [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/bunsdev) <br>
 ### SoulSwap Finance
 - (Co)Founder, [SoulSwap Finance](https://SoulSwap.finance)
 - [Github Organization](https://github.com/SoulSwapFinance)
