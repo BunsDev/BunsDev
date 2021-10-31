@@ -1,11 +1,11 @@
-____
+____	
 ![uni github stats](https://github-readme-stats.vercel.app/api?username=bunsdev&hide=["issues"]&show_icons=true)
 
-<p align="center">
+<p>
 	<a href="https://github.com/BunsDev"><img src="https://img.shields.io/github/followers/bunsdev.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/0xBuns"><img src="https://img.shields.io/twitter/follow/0xbuns?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/buns"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
+<br></p>
 <img height=400 width=500 src="https://media.giphy.com/media/xT77XGs5Kw0nh1TRC0/giphy.gif" />
 
 ### SoulSwap Finance
