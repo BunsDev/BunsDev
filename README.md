@@ -6,7 +6,7 @@ ____
 	<a href="https://twitter.com/0xBuns"><img src="https://img.shields.io/twitter/follow/0xbuns?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/buns"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <br></p>
-<img height=400 width=400 src="https://media4.giphy.com/media/P1zcKi6dv3a3Sxs59w/giphy.gif?cid=5e21488638ee1137728b7e8d98805341493591a5c110fa72&rid=giphy.gif&ct=g" />
+<img height=500 width=500 src="https://media4.giphy.com/media/P1zcKi6dv3a3Sxs59w/giphy.gif?cid=5e21488638ee1137728b7e8d98805341493591a5c110fa72&rid=giphy.gif&ct=g" />
 
 ### SoulSwap Finance
 - (Co)Founder, [SoulSwap Finance](https://SoulSwap.finance)
