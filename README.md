@@ -32,7 +32,7 @@ ____
 - Deflationary: 50% of forfeited tokens are burned forever, thus decreasing total max supply.
 
 ### Swapper.sol:
-- Swap an one token for another at a user-specified ratio.
+- Swap one token for another at a user-specified ratio.
 
 ## Publications
 - [Assert vs. Revert](https://soliditywiz.medium.com/assert-vs-require-730148b385e0)
