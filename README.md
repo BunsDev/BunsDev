@@ -1,5 +1,5 @@
 ____	
-![uni github stats](https://github-readme-stats.vercel.app/api?username=bunsdev&hide=["issues"]&show_icons=true)
+![buns github stats](https://github-readme-stats.vercel.app/api?username=bunsdev&hide=["issues"]&show_icons=true)
 
 <p>
 	<a href="https://github.com/BunsDev"><img src="https://img.shields.io/github/followers/bunsdev.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -7,13 +7,11 @@ ____
 	<a href="https://www.linkedin.com/in/buns"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <br></p>
 
+<a href="https://app.daily.dev/Buns"><img src="https://api.daily.dev/devcards/0bb2e8ebafee47e78f9db5883dc10079.png?r=p6f" width="400" alt="Buns's Dev Card"/></a>
+
 ### SoulSwap Finance
 - (Co)Founder, [SoulSwap Finance](https://SoulSwap.finance)
 - [Github Organization](https://github.com/SoulSwapFinance)
-
-### Maki Farm
-- [GitHub Repo](https://github.com/Makiswap-Protocol/maki-farm)
-- Core smart contracts for the farming components of Makiswap Protocol on Huobi (HECO).
 
 ### EasyBake Bakery
 - [GitHub Repo](https://github.com/EasyBakeSwap/Easybake-Bakery)
