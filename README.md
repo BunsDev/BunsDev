@@ -7,12 +7,12 @@ ____
 	<a href="https://www.linkedin.com/in/buns"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <br></p>
 
-<a href="https://app.daily.dev/Buns"><img src="https://api.daily.dev/devcards/0bb2e8ebafee47e78f9db5883dc10079.png?r=p6f" width="400" alt="Buns's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/Buns"><img src="https://api.daily.dev/devcards/0bb2e8ebafee47e78f9db5883dc10079.png?r=p6f" width="400" alt="Buns's Dev Card"/></a> -->
 
 ### SoulSwap Finance
 - (Co)Founder, [SoulSwap Finance](https://SoulSwap.finance)
 - [Github Organization](https://github.com/SoulSwapFinance)
-
+<!-- 
 ### EasyBake Bakery
 - [GitHub Repo](https://github.com/EasyBakeSwap/Easybake-Bakery)
 - Core smart contracts for the farming components of EasyBake Finance.
@@ -29,7 +29,7 @@ ____
 - Deflationary: 50% of forfeited tokens are burned forever, thus decreasing total max supply.
 
 ### Swapper.sol:
-- Swap one token for another at a user-specified ratio.
+- Swap one token for another at a user-specified ratio. -->
 
 ## Publications
 - [Assert vs. Revert](https://soliditywiz.medium.com/assert-vs-require-730148b385e0)
