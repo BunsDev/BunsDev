@@ -1,7 +1,7 @@
 <h1 align="center" width="100%"> Hai I'm Buns Enchantress 👩🏻‍💻 </h1>
 
 <p align="center" width="100%">
-<!-- 	<a href="https://0xBuns"><img src="https://img.shields.io/github/followers/bunsdev.svg?label=GitHub&style=social" alt="GitHub"></a> -->
+	<a href="https://0xBuns.com"><img src="https://img.shields.io/badge/0xBuns.com-%23FFFFFF?link=https%3A%2F%2F0xBuns.com" alt="0xBuns.com"></a>
 	<a href="https://github.com/BunsDev"><img src="https://img.shields.io/github/followers/bunsdev.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/0xBuns"><img src="https://img.shields.io/twitter/follow/0xbuns?label=Twitter&style=social" alt="X (Twitter)"></a>
 	<a href="https://www.linkedin.com/in/buns"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
