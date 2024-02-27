@@ -1,5 +1,4 @@
-____	
-![buns github stats](https://github-readme-stats.vercel.app/api?username=bunsdev&hide=["issues"]&show_icons=true)
+<h1> Hai I'm Buns Enchantress 👩🏻‍💻 </h1>
 
 <p>
 	<a href="https://github.com/BunsDev"><img src="https://img.shields.io/github/followers/bunsdev.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -7,29 +6,27 @@ ____
 	<a href="https://www.linkedin.com/in/buns"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <br></p>
 
-<!-- <a href="https://app.daily.dev/Buns"><img src="https://api.daily.dev/devcards/0bb2e8ebafee47e78f9db5883dc10079.png?r=p6f" width="400" alt="Buns's Dev Card"/></a> -->
+---
 
-### SoulSwap Finance
-- (Co)Founder, [SoulSwap Finance](https://SoulSwap.finance)
-- [Github Organization](https://github.com/SoulSwapFinance)
-<!-- 
-### EasyBake Bakery
-- [GitHub Repo](https://github.com/EasyBakeSwap/Easybake-Bakery)
-- Core smart contracts for the farming components of EasyBake Finance.
+![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### LoyaltyMine.sol: Single-Asset Staking 
-- [GitHub Repo](https://github.com/CryptoUnico/LoyaltyMine)
-- Smart contract designed to reward LOYAL tokens to stakers.
-- LOYAL is a non-transferable ERC20 token designed to be used as an incentive to for users to hold their token while we build out the DAO ecosystem.
+---
 
-### MerkleDistributor.sol (Gamed Airdrop): Strategic Vested Airdrop with built-in HODL Incentives
-- [GitHub Repo](https://github.com/CryptoUnico/merkle-distributor) | [Etherscan](https://etherscan.io/address/0x7ea0f8bb2f01c197985c285e193dd5b8a69836c0#code)
-- Gamefied elements to incentivize participants to claim at a later date.
-- Rules: on day one, 10% of the claim is available and increases 1% daily until 100% is reached.
-- Deflationary: 50% of forfeited tokens are burned forever, thus decreasing total max supply.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bunsdev&show_icons=true&locale=en&theme=graywhite&include_all_commits=true&count_private=true" alt="bunsdev" /></p>
 
-### Swapper.sol:
-- Swap one token for another at a user-specified ratio. -->
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bunsdev&show_icons=true&locale=en&layout=compact&hide=HTML,jupyter%20notebook" alt="bunsdev" align="center"  /></p>
+
+<br>
+
+---
+
 
 ## Publications
 - [Assert vs. Revert](https://soliditywiz.medium.com/assert-vs-require-730148b385e0)
