@@ -20,14 +20,41 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bunsdev&show_icons=true&locale=en&theme=graywhite&include_all_commits=true&count_private=true" alt="bunsdev" /></p>
-
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bunsdev&show_icons=true&locale=en&layout=compact&hide=HTML,jupyter%20notebook" alt="bunsdev" align="center"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunsdev&" alt="bunsdev" /></p>
+<!-- <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bunsdev&show_icons=true&locale=en&layout=compact&hide=HTML,jupyter%20notebook" alt="bunsdev" align="center"  /></p> -->
 
 <br>
 
+
+<!--
+
 ---
 
+## Proof of Work...
 
+<a href="https://github.com/BunsDev/serverless">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BunsDev&repo=serverless&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+</a>
+
+<a href="https://github.com/SoulSwapFinance/soul-api">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SoulSwapFinance&repo=soul-api&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+</a>
+
+<a href="https://github.com/SoulSwapFinance/soul-api">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SoulSwapFinance&repo=soul-api&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+</a>
+
+<a href="https://github.com/SoulSwapFinance/soul-api">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SoulSwapFinance&repo=soul-api&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+</a>
+
+<a href="https://github.com/SoulSwapFinance/soul-api">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SoulSwapFinance&repo=soul-api&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+</a>
+
+<a href="https://github.com/SoulSwapFinance/soul-api">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SoulSwapFinance&repo=soul-api&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+</a>
 ## Publications
 - [Assert vs. Revert](https://soliditywiz.medium.com/assert-vs-require-730148b385e0)
 - [Automating Smart Contracts](https://soliditywiz.medium.com/smart-contract-automation-ca109805b23a)
@@ -36,3 +63,5 @@
 - [Time (in) Smart Contract(s)](https://soliditywiz.medium.com/time-in-smart-contract-s-eec4a2fd108e)
 - [Cryptographic Hash Function](https://soliditywiz.medium.com/cryptographic-hash-function-beaa2408260)
 - [Merkle (Hash) Trees: Explained](https://soliditywiz.medium.com/merkle-hash-trees-explained-ea384f2af7e8)
+
+-->
