@@ -23,7 +23,7 @@
 ---
 
 <p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=bunsdev&show_icons=true&locale=en&theme=graywhite&include_all_commits=true&count_private=true" alt="bunsdev" /></p>
-<p align="center" width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunsdev&" alt="bunsdev" /></p>
+<!-- <p align="center" width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunsdev&" alt="bunsdev" /></p> -->
 <!-- <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bunsdev&show_icons=true&locale=en&layout=compact&hide=HTML,jupyter%20notebook" alt="bunsdev" align="center"  /></p> -->
 
 <br>
