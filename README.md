@@ -19,12 +19,11 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
 <!-- <p align="center" width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunsdev&" alt="bunsdev" /></p> -->
 <!-- <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bunsdev&show_icons=true&locale=en&layout=compact&hide=HTML,jupyter%20notebook" alt="bunsdev" align="center"  /></p> -->
 <!-- <a href="https://app.daily.dev/buns"><img src="https://api.daily.dev/devcards/v2/5QNilpNmPwdpNUNbq5o17.png?type=default&r=488" width="356" alt="Buns's Dev Card"/></a> -->
-<br>
-<p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=bunsdev&show_icons=true&locale=en&theme=graywhite&include_all_commits=true&count_private=true" alt="bunsdev" /></p>
+<!-- <br> -->
+<!-- <p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=bunsdev&show_icons=true&locale=en&theme=graywhite&include_all_commits=true&count_private=true" alt="bunsdev" /></p> -->
 
 ---
 
