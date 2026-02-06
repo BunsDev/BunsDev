@@ -1,4 +1,4 @@
-<h1 align="center" width="100%"> Hai, I'm Buns Enchantress 👩🏻‍💻 </h1>
+<h1 align="center" width="100%"> Hai, I'm Val Alexander 👩🏻‍💻 </h1>
 
 <p align="center" width="100%">
 	<br/>
