@@ -33,7 +33,7 @@
 
 <h2 align="center" width="100%"> Clawtivity Vibes 🦞 </h2>
 
-<p align="center" width="100%"><a href="https://openclaw.ai"><img src="https://raw.githubusercontent.com/bunsdev/bunsdev/refs/heads/master/assets/vibes-activity.svg" width="652" alt="Dev Card"/></a></p>
+<p align="center" width="100%"><a href="https://openclaw.ai"><img src="https://raw.githubusercontent.com/BunsDev/BunsDev/refs/heads/main/assets/vibes-activity.svg" width="652" alt="Dev Card"/></a></p>
 
 <!--
 
