@@ -2,7 +2,7 @@
 
 <p align="center" width="100%">
 	<br/>
-	<a href="https://0xBuns.com"><img src="https://img.shields.io/badge/0xBuns.com-%23FFFFFF?link=https%3A%2F%2F0xBuns.com" alt="0xBuns.com"></a>
+	<a href="https://BunsDev.com"><img src="https://img.shields.io/badge/BunsDev.com-%23FFFFFF?link=https%3A%2F%2FBunsDev.com" alt="BunsDev.com"></a>
 	<a href="https://github.com/BunsDev"><img src="https://img.shields.io/github/followers/bunsdev.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/0xBuns"><img src="https://img.shields.io/twitter/follow/0xbuns?label=Twitter&style=social" alt="X (Twitter)"></a>
 	<a href="https://www.linkedin.com/in/buns"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
