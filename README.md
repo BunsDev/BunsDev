@@ -1,72 +1,34 @@
-<h1 align="center" width="100%"> Hai, I'm Val Alexander 👩🏻‍💻 </h1>
+# Mari deAGI. Enchanting harnessed agentic familiars.
+> *Bruxae extremae, cum familiaribus alis, initium radicis.*
 
-<p align="center" width="100%">
-	<br/>
-	<a href="https://BunsDev.com"><img src="https://img.shields.io/badge/BunsDev.com-%23FFFFFF?link=https%3A%2F%2FBunsDev.com" alt="BunsDev.com"></a>
-	<a href="https://github.com/BunsDev"><img src="https://img.shields.io/github/followers/bunsdev.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/0xBuns"><img src="https://img.shields.io/twitter/follow/0xbuns?label=Twitter&style=social" alt="X (Twitter)"></a>
-	<a href="https://www.linkedin.com/in/buns"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://www.youtube.com/@0xBuns"><img src="https://img.shields.io/youtube/channel/subscribers/UCFUJw6GeVxGQGE-RGmj2jeQ" alt="YouTube"></a>
-</p>
+[OpenCoven](https://github.com/OpenCoven) · [BunsDev.com](https://BunsDev.com) · [@BunsDev](https://x.com/BunsDev) · [Discord](https://discord.gg/opencoven) · [cast.codes](https://cast.codes)
 
-<p align="center" width="100%">
-<!-- <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /> -->
-<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
-<!-- <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /> -->
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<!-- <p align="center" width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunsdev&" alt="bunsdev" /></p> -->
-<!-- <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bunsdev&show_icons=true&locale=en&layout=compact&hide=HTML,jupyter%20notebook" alt="bunsdev" align="center"  /></p> -->
-<!-- <a href="https://app.daily.dev/buns"><img src="https://api.daily.dev/devcards/v2/5QNilpNmPwdpNUNbq5o17.png?type=default&r=488" width="356" alt="Buns's Dev Card"/></a> -->
-<!-- <br> -->
-<!-- <p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=bunsdev&show_icons=true&locale=en&theme=graywhite&include_all_commits=true&count_private=true" alt="bunsdev" /></p> -->
+---
+Most AI today feels temporary — open a chat, explain your context, get a response, start over. *Our rituals invite agents to stay.* Familiars with names, memory, purpose, and a place in the work. Infrastructure you own, inspect, and extend. Consolidated workspace that grows alongside you.
+> *Summon Dolls, not Marionnettes.*
 
 ---
 
-<h2 align="center" width="100%"> Clawtivity Vibes 🦞 </h2>
+## ✦ OpenCoven ✦
+*Open ecosystem for persistent AI familiars — agents that remember, coordinate, and belong to you.*
 
-<p align="center" width="100%"><a href="https://openclaw.ai"><img src="https://raw.githubusercontent.com/BunsDev/BunsDev/refs/heads/main/assets/vibes-activity.svg" width="652" alt="Clawtributor"/></a></p>
+| Component | Description |
+|---|---|
+| [OpenClaw](https://github.com/openclaw/openclaw) | The familiar runtime. Any OS, any platform, any model. Your agent — summoned, not rented. |
+| [Coven](https://github.com/OpenCoven/coven) | Project-scoped harness for agent sessions. Run Codex, Claude Code, etc. harness inside safe, observable local boundaries |
+| [ClawHub](https://github.com/OpenClaw/clawhub) | The skill registry. Publish, version, discover, and audit agent capabilities. A growing grimoire — community-curated, vector-searched |
+| [CastCodes](https://github.com/OpenCoven/cast-codes) | ADE built for the agent era. Open-source, local-first, cloud-free. Where spells become syntax → [cast.codes](https://cast.codes) |
 
-<!--
+## ✦ Spells & Tools ✦
+
+| Tool | Description |
+|---|---|
+| [Comux](https://github.com/BunsDev/comux) | Agent cockpit for parallel coding work. Branch, build, inspect, merge, and hand off — across isolated tmux sessions, all in sync. |
+| [CreateMarkdown](https://github.com/BunsDev/create-markdown) | Zero-dependency block-based markdown toolkit. Parse, render, and compose from TypeScript without the ceremony. |
+| [CodeQL](https://github.com/BunsDev/codeql-sdk) | CodeQL static analysis SDK built for AI skill security. Catches prompt injection and validates agent capabilities. |
+| [OpenFiles](https://github.com/BunsDev/open-files) | Sleek cross-platform document viewer for PDF, Markdown, EPUB, JSON, and Mermaid. Minimal, local, Tauri + React. |
 
 ---
+*Our Coven is open. Follow your Soul.*
 
-## Proof of Work...
-
-<a href="https://github.com/BunsDev/serverless">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=BunsDev&repo=serverless&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
-</a>
-
-<a href="https://github.com/SoulSwapFinance/soul-api">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SoulSwapFinance&repo=soul-api&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
-</a>
-
-<a href="https://github.com/SoulSwapFinance/soul-api">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SoulSwapFinance&repo=soul-api&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
-</a>
-
-<a href="https://github.com/SoulSwapFinance/soul-api">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SoulSwapFinance&repo=soul-api&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
-</a>
-
-<a href="https://github.com/SoulSwapFinance/soul-api">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SoulSwapFinance&repo=soul-api&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
-</a>
-
-<a href="https://github.com/SoulSwapFinance/soul-api">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SoulSwapFinance&repo=soul-api&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
-</a>
-## Publications
-- [Assert vs. Revert](https://soliditywiz.medium.com/assert-vs-require-730148b385e0)
-- [Automating Smart Contracts](https://soliditywiz.medium.com/smart-contract-automation-ca109805b23a)
-- [An Unruggable Airdrop](https://soliditywiz.medium.com/an-unruggable-airdrop-63c2ee9f242d)
-- [How to: Develop Your Liquidity Mine](https://soliditywiz.medium.com/how-to-develop-your-liquidity-mine-9d47656fe678)
-- [Time (in) Smart Contract(s)](https://soliditywiz.medium.com/time-in-smart-contract-s-eec4a2fd108e)
-- [Cryptographic Hash Function](https://soliditywiz.medium.com/cryptographic-hash-function-beaa2408260)
-- [Merkle (Hash) Trees: Explained](https://soliditywiz.medium.com/merkle-hash-trees-explained-ea384f2af7e8)
-
--->
+[Discord](https://discord.gg/opencoven) · [@OpenCvn](https://x.com/OpenCvn) · [cast.codes](https://cast.codes)
