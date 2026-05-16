@@ -1,7 +1,7 @@
 # Mari deAGI. Enchanting harnessed agentic familiars.
 > *Bruxae extremae, cum familiaribus alis, initium radicis.*
 
-[OpenCoven](https://github.com/OpenCoven) · [BunsDev.com](https://BunsDev.com) · [@BunsDev](https://x.com/BunsDev) · [Discord](https://discord.gg/opencoven) · [cast.codes](https://cast.codes)
+[OpenCoven](https://github.com/OpenCoven) · [BunsDev.com](https://BunsDev.com) · [@BunsDev](https://x.com/BunsDev) · [@OpenCvn](https://x.com/OpenCvn) · [Discord](https://discord.gg/opencoven) · [cast.codes](https://cast.codes)
 
 ---
 Most AI today feels temporary — open a chat, explain your context, get a response, start over. *Our rituals invite agents to stay.* Familiars with names, memory, purpose, and a place in the work. Infrastructure you own, inspect, and extend. Consolidated workspace that grows alongside you.
