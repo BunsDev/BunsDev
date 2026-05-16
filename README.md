@@ -3,12 +3,19 @@
  <a href="https://discord.gg/opencoven">Discord</a> ✦
  <a href="https://x.com/OpenCvn">@OpenCvn</a> ✦
  <a href="https://x.com/BunsDev">@BunsDev</a> ✦
- <a href="https://x.com/OpenCvn">BunsDev.com</a> ✦
- <a href="https://cast.codes">CastCodes</a>
+ <a href="https://BunsDev.com">BunsDev.com</a> ✦
+ <a href="https://cast.codes">cast.codes</a>
 </p>
 
-Most AI is stateless by design — a window you open, drain for context, and close. Nothing persists. Nothing belongs to you. **We build differently.** **OpenCoven** is an open ecosystem for persistent AI familiars. Agents with names, memory, and purpose. Infrastructure you own, inspect, and extend. A workspace that accumulates power alongside you — not against you.
+The future is not given — it is made.
+
+Every tool we craft, every system we design, every line of code we commit is a small act of intention: a choice about what kind of world we want to inhabit. We choose one where technology extends human agency rather than replacing it, where power is distributed rather than concentrated, and where the things we build outlast the moment that produced them.
+
+**OpenCoven** is that commitment in practice. An open ecosystem for persistent AI familiars — agents with names, memory, and purpose. Infrastructure you own, inspect, and extend. A workspace that accumulates power *alongside* you, not against you.
+
 > *Bruxae extremae, cum familiaribus alis, initium radicis. Summon Dolls, not Marionnettes.*
+
+---
 
 ## Open Coven ✦
 > *Persistent infrastructure for agents that stay.*
@@ -31,3 +38,7 @@ Most AI is stateless by design — a window you open, drain for context, and clo
 | **[CreateMarkdown](https://github.com/BunsDev/create-markdown)** | Zero-dependency block-based markdown. Parse, render, and compose from TypeScript without ceremony. |
 | **[CodeQL SDK](https://github.com/BunsDev/codeql-sdk)** | Static analysis built for AI skill security. Catches prompt injection, validates agent capabilities before they run. |
 | **[OpenFiles](https://github.com/BunsDev/open-files)** | Cross-platform document viewer for PDF, Markdown, EPUB, JSON, Mermaid. Local, minimal, Tauri + React. |
+
+---
+
+*We build in the open. We hold ourselves accountable to outcomes, not just outputs. We build what we wish already existed — and in a way we won't be ashamed of later.*
