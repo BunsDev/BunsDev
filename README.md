@@ -17,7 +17,7 @@ Every tool we craft, every system we design, every line of code we commit is a s
 
 ---
 
-## Open Coven ✦
+## Claw & Coven ✦
 > *Persistent infrastructure for agents that stay.*
 
 | | |
