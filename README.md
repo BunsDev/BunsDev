@@ -52,11 +52,12 @@ Every tool we craft, every system we design, every line of code we commit is a s
 | | |
 |---|---|
 | **[Chainlink Functions Workshop](https://github.com/BunsDev/functions-workshop)** | Bridge AI and on-chain state: use OpenAI to generate a price forecast, post it to Ethereum via Chainlink's decentralized oracle network. |
+| **[Cross-Chain Token Standard](https://github.com/BunsDev/cct-linklabs)** | Smart contracts and full test suite built for a Chainlink masterclass on the CCT standard — token deployment, pool management, and cross-chain transfers between Ethereum and Base. |
+| **[RWA Tokenization](https://github.com/BunsDev/rwa-tokenization)** | Real-world asset tokenization using Chainlink Functions on Avalanche. Connects off-chain property data to on-chain token representations. |
 | **[Serverless Smart Contracts](https://github.com/BunsDev/serverless)** | AWS Lambda-powered smart contract automation. Schedule, trigger, and execute on-chain calls without running a bot server. |
 | **[Smart Contract Best Practices](https://github.com/BunsDev/best-practices)** | Lessons distilled from real audits. The kind of patterns that stop bugs before they become exploits. |
 | **[Merkle Distributor](https://github.com/BunsDev/merkle-distributor)** | Token distribution contract using merkle proofs. Gas-efficient, verifiable, and battle-tested. |
-| **[Flash Loan Liquidator](https://github.com/BunsDev/joe-liquidator-bot)** | Flash loan liquidation bot for Trader Joe. Identify undercollateralized positions and close them profitably in a single transaction. |
-| **[GovernorDAO](https://github.com/BunsDev/GovernorDAO)** | On-chain governance infrastructure for the Governor DAO project. Biometric proof-of-unique-human in a DAO framework. |
+| **[Infernet Node (TypeScript)](https://github.com/BunsDev/infernet-node-typescript)** | A TypeScript port of Ritual's Python-based Infernet Node — bringing the off-chain compute coordination layer to the JS/TS ecosystem. |
 
 ---
 
