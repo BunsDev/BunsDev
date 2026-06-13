@@ -17,7 +17,7 @@ Every tool we craft, every system we design, every line of code we commit is a s
 
 ---
 
-## Claw & Coven ✦
+## Open Coven ✦
 > *Persistent infrastructure for agents that stay.*
 
 | | |
@@ -36,15 +36,13 @@ Every tool we craft, every system we design, every line of code we commit is a s
 | | |
 |---|---|
 | **[Comux](https://github.com/BunsDev/comux)** | Agent cockpit for parallel coding. Branch, build, inspect, merge, and hand off — across isolated, synchronized tmux sessions. |
-| **[OmniWire](https://github.com/BunsDev/omniwire-mcp)** | 81-tool MCP server for AI agents. SSH mesh, A2A coordination, file transfers, VPN, firewall, and distributed infra — one tool call away. |
-| **[DreamServer](https://github.com/BunsDev/DreamServer)** | One-command private AI stack. Local inference, chat UI, voice, agents, workflows, RAG, and image gen — no cloud, no subscriptions. |
-| **[PodGuy](https://github.com/BunsDev/podguy)** | Agent-driven post-production for video podcasts. Transcription, chapters, clip candidates, social cuts — local media stays local. |
-| **[Bird](https://github.com/BunsDev/bird-tweet-cli)** | Fast X/Twitter CLI for agents and scripts. Read timelines, search, threads, bookmarks, and trending topics — no browser required. |
-| **[Evolving Lite](https://github.com/BunsDev/evolving-lite)** | Self-evolving Claude Code plugin. Learns from your corrections, routes context intelligently, and heals itself when hooks fail. |
+| **[Coven Code](https://github.com/OpenCoven/coven-code)** | Multi-provider agentic coding TUI in Rust. Chat forking, memory consolidation, diff viewer, MCP support, session branching — works with Claude, Codex, OpenAI, Ollama, and more. |
+| **[OkCode](https://github.com/OpenKnots/okcode)** | Desktop-first orchestration platform for coding agents. Connects a local runtime to a React UI with live session state, Git worktree isolation, diff review, and an integrated terminal. |
+| **[OpenTrust](https://github.com/OpenKnots/opentrust)** | Local-first memory and traceability layer for OpenClaw. Captures sessions, tool calls, and workflow runs into a durable SQLite store with FTS, semantic search, and lineage-linked evidence. |
+| **[Agent Factory](https://github.com/BunsDev/agent-factory)** | Collection of agent creation templates — from Asana chatbots to pydantic-ai patterns. Practical starting points, not toy demos. |
 | **[CreateMarkdown](https://github.com/BunsDev/create-markdown)** | Zero-dependency block-based markdown. Parse, render, and compose from TypeScript without ceremony. |
 | **[CodeQL SDK](https://github.com/BunsDev/codeql-sdk)** | Static analysis built for AI skill security. Catches prompt injection, validates agent capabilities before they run. |
 | **[OpenFiles](https://github.com/BunsDev/open-files)** | Cross-platform document viewer for PDF, Markdown, EPUB, JSON, Mermaid. Local, minimal, Tauri + React. |
-| **[Agent Factory](https://github.com/BunsDev/agent-factory)** | Collection of agent creation templates — from Asana chatbots to pydantic-ai patterns. Practical starting points, not toy demos. |
 
 ---
 
