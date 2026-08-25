@@ -4,7 +4,7 @@
  <a href="https://x.com/OpenCvn">@OpenCvn</a> ✦
  <a href="https://x.com/BunsDev">@BunsDev</a> ✦
  <a href="https://BunsDev.com">BunsDev.com</a> ✦
- <a href="https://cast.codes">cast.codes</a>
+ <a href="https://opencoven.ai">OpenCoven</a>
 </p>
 
 The future is not given — it is made.
