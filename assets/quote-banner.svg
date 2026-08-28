@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Val Alexander quote</title>
+  <desc id="desc">We build in the open. We hold ourselves accountable to outcomes, not just outputs. We build what we wish already existed — and in a way we won't be ashamed of later.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090511"/>
+      <stop offset="0.52" stop-color="#140A27"/>
+      <stop offset="1" stop-color="#0B0714"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4C1D95"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#4C1D95"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="300" rx="22" fill="url(#background)"/>
+  <rect x="1.5" y="1.5" width="897" height="297" rx="20.5" fill="none" stroke="url(#border)" stroke-width="3"/>
+
+  <circle cx="74" cy="44" r="118" fill="url(#glow)"/>
+  <circle cx="826" cy="256" r="136" fill="url(#glow)"/>
+  <circle cx="450" cy="150" r="108" fill="none" stroke="#8B5CF6" stroke-opacity=".08"/>
+  <circle cx="450" cy="150" r="76" fill="none" stroke="#A78BFA" stroke-opacity=".08"/>
+  <path d="M450 34 550 92 550 208 450 266 350 208 350 92Z" fill="none" stroke="#A78BFA" stroke-opacity=".1"/>
+  <path d="M22 52H174M726 248H878" stroke="#8B5CF6" stroke-opacity=".28"/>
+
+  <g fill="#A78BFA">
+    <path d="M53 45 61 53 53 61 45 53Z"/>
+    <path d="M847 239 855 247 847 255 839 247Z"/>
+  </g>
+  <g fill="#A78BFA" opacity=".7" filter="url(#softGlow)">
+    <circle cx="53" cy="53" r="8"/>
+    <circle cx="847" cy="247" r="8"/>
+  </g>
+
+  <text x="450" y="68" fill="#C4B5FD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="6" text-anchor="middle">✦ OPEN COVEN ✦</text>
+  <text x="450" y="108" fill="#F5F3FF" font-family="Georgia, Times New Roman, serif" font-size="23" font-style="italic" text-anchor="middle">
+    <tspan x="450">“We build in the open. We hold ourselves accountable</tspan>
+    <tspan x="450" dy="34">to outcomes, not just outputs.</tspan>
+    <tspan x="450" dy="34">We build what we wish already existed —</tspan>
+    <tspan x="450" dy="34">and in a way we won't be ashamed of later.”</tspan>
+  </text>
+  <text x="450" y="272" fill="#A78BFA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="600" letter-spacing="3" text-anchor="middle">VAL ALEXANDER · BUNSDEV</text>
+</svg>
