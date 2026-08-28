@@ -106,10 +106,6 @@ Every tool we craft, every system we design, every line of code we commit is a s
   <a href="https://discord.gg/opencoven"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="OpenCoven Discord" /></a>
 </p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
-</div>
-
----
-
-*We build in the open. We hold ourselves accountable to outcomes, not just outputs. We build what we wish already existed — and in a way we won't be ashamed of later.*
+<p align="center">
+  <em>"We build in the open. We hold ourselves accountable to outcomes, not just outputs. We build what we wish already existed — and in a way we won't be ashamed of later."</em>
+</p>
