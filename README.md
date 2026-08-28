@@ -17,47 +17,98 @@ Every tool we craft, every system we design, every line of code we commit is a s
 
 ---
 
-## Open Coven ✦
-> *Persistent infrastructure for agents that stay.*
+### 🚀 Featured Projects
 
-| | |
-|---|---|
-| **[OpenClaw](https://github.com/openclaw/openclaw)** | Familiar runtime. Any OS, any platform, any model. Your agent. Summoned, not rented. |
-| **[Coven](https://github.com/OpenCoven/coven)** | Project-scoped session harness. Run Codex, Claude Code, and more inside safe, observable, local boundaries. |
-| **[Cave](https://github.com/OpenCoven/coven-cave)** | Desktop home for the Coven. Where familiars live, tasks run, and the work actually happens. |
-| **[ClawHub](https://github.com/OpenCoven/clawhub)** | Registry and living grimoire. Community-curated, version-controlled, vector-searched. Publish & discover capabilities. |
-| **[CastCodes](https://github.com/OpenCoven/cast-codes)** | Agent-era code editor. Open-source, local-first, cloud-free. Spells → Syntax @ [cast.codes](https://cast.codes) |
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/openclaw/openclaw">OpenClaw</a></h3>
+      <p>A personal AI assistant you run on your own devices. It connects to the channels you already use, supports voice and live Canvas experiences, and keeps the runtime under your control.</p>
+      <p>
+        <a href="https://openclaw.ai"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" alt="OpenClaw website" /></a>
+        <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="OpenClaw source code" /></a>
+      </p>
+      <p><code>TypeScript</code> <code>Node.js</code> <code>AI</code> <code>Local-first</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/OpenCoven/coven">Coven</a></h3>
+      <p>Local harness infrastructure for project-scoped coding-agent sessions. Run multiple harnesses inside explicit boundaries with observable, persistent session state.</p>
+      <p>
+        <a href="https://docs.opencoven.ai"><img src="https://img.shields.io/badge/Docs-9A8ECD?style=flat-square&logo=readthedocs&logoColor=white" alt="Coven documentation" /></a>
+        <a href="https://github.com/OpenCoven/coven"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Coven source code" /></a>
+      </p>
+      <p><code>Rust</code> <code>TypeScript</code> <code>SQLite</code> <code>IPC</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/OpenCoven/coven-cave">Coven Cave</a></h3>
+      <p>A native desktop and mobile control room for familiars, local agent sessions, tasks, memory, GitHub triage, workflows, and phone handoff.</p>
+      <p>
+        <a href="https://github.com/OpenCoven/coven-cave/releases/latest"><img src="https://img.shields.io/badge/Download-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Download Coven Cave" /></a>
+        <a href="https://github.com/OpenCoven/coven-cave"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Coven Cave source code" /></a>
+      </p>
+      <p><code>Next.js</code> <code>React</code> <code>Tauri</code> <code>SwiftUI</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/OpenCoven/cast-codes">CastCodes</a></h3>
+      <p>A local-first AI coding workspace that brings terminal and editor tools, agent lanes, project context, diffs, and review workflows into one native app.</p>
+      <p>
+        <a href="https://cast.codes"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" alt="CastCodes website" /></a>
+        <a href="https://github.com/OpenCoven/cast-codes"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="CastCodes source code" /></a>
+      </p>
+      <p><code>Rust</code> <code>React</code> <code>Tauri</code> <code>Local-first</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/OpenCoven/coven-code">Coven Code</a></h3>
+      <p>An open-source agentic coding TUI with chat forking, memory consolidation, a diff viewer, session branching, plugins, and multi-provider support.</p>
+      <p>
+        <a href="https://github.com/OpenCoven/coven-code/releases/latest"><img src="https://img.shields.io/badge/Releases-9A8ECD?style=flat-square&logo=github&logoColor=white" alt="Coven Code releases" /></a>
+        <a href="https://github.com/OpenCoven/coven-code"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Coven Code source code" /></a>
+      </p>
+      <p><code>Rust</code> <code>Ratatui</code> <code>MCP</code> <code>TUI</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/BunsDev/comux">Comux</a></h3>
+      <p>A visible cockpit for parallel coding agents using isolated tmux panes, Git worktrees, lifecycle hooks, reusable rituals, and explicit review and merge flows.</p>
+      <p>
+        <a href="https://www.npmjs.com/package/comux"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="Comux on npm" /></a>
+        <a href="https://github.com/BunsDev/comux"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Comux source code" /></a>
+      </p>
+      <p><code>TypeScript</code> <code>tmux</code> <code>Git worktrees</code> <code>npm</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Spells & Tools ✦
-> *We weave the future and welcome lost souls with open arms.*
+### 📊 GitHub Stats
 
-| | |
-|---|---|
-| **[Comux](https://github.com/BunsDev/comux)** | Agent cockpit for parallel coding. Branch, build, inspect, merge, and hand off — across isolated, synchronized tmux sessions. |
-| **[Coven Code](https://github.com/OpenCoven/coven-code)** | Multi-provider agentic coding TUI in Rust. Chat forking, memory consolidation, diff viewer, MCP support, session branching — works with Claude, Codex, OpenAI, Ollama, and more. |
-| **[OkCode](https://github.com/OpenKnots/okcode)** | Desktop-first orchestration platform for coding agents. Connects a local runtime to a React UI with live session state, Git worktree isolation, diff review, and an integrated terminal. |
-| **[OpenTrust](https://github.com/OpenKnots/opentrust)** | Local-first memory and traceability layer for OpenClaw. Captures sessions, tool calls, and workflow runs into a durable SQLite store with FTS, semantic search, and lineage-linked evidence. |
-| **[Agent Factory](https://github.com/BunsDev/agent-factory)** | Collection of agent creation templates — from Asana chatbots to pydantic-ai patterns. Practical starting points, not toy demos. |
-| **[CreateMarkdown](https://github.com/BunsDev/create-markdown)** | Zero-dependency block-based markdown. Parse, render, and compose from TypeScript without ceremony. |
-| **[CodeQL SDK](https://github.com/BunsDev/codeql-sdk)** | Static analysis built for AI skill security. Catches prompt injection, validates agent capabilities before they run. |
-| **[OpenFiles](https://github.com/BunsDev/open-files)** | Cross-platform document viewer for PDF, Markdown, EPUB, JSON, Mermaid. Local, minimal, Tauri + React. |
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunsDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="BunsDev GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunsDev&layout=compact&langs_count=8&theme=tokyonight" alt="BunsDev top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=BunsDev&theme=tokyonight" alt="BunsDev GitHub streak" />
+</div>
 
 ---
 
-## On-Chain ✦
-> *Smart contracts are code too. This is that chapter.*
+### 📫 Connect with me
 
-| | |
-|---|---|
-| **[Chainlink Functions Workshop](https://github.com/BunsDev/functions-workshop)** | Bridge AI and on-chain state: use OpenAI to generate a price forecast, post it to Ethereum via Chainlink's decentralized oracle network. |
-| **[Cross-Chain Token Standard](https://github.com/BunsDev/cct-linklabs)** | Smart contracts and full test suite built for a Chainlink masterclass on the CCT standard — token deployment, pool management, and cross-chain transfers between Ethereum and Base. |
-| **[RWA Tokenization](https://github.com/BunsDev/rwa-tokenization)** | Real-world asset tokenization using Chainlink Functions on Avalanche. Connects off-chain property data to on-chain token representations. |
-| **[Serverless Smart Contracts](https://github.com/BunsDev/serverless)** | AWS Lambda-powered smart contract automation. Schedule, trigger, and execute on-chain calls without running a bot server. |
-| **[Smart Contract Best Practices](https://github.com/BunsDev/best-practices)** | Lessons distilled from real audits. The kind of patterns that stop bugs before they become exploits. |
-| **[Merkle Distributor](https://github.com/BunsDev/merkle-distributor)** | Token distribution contract using merkle proofs. Gas-efficient, verifiable, and battle-tested. |
-| **[Infernet Node (TypeScript)](https://github.com/BunsDev/infernet-node-typescript)** | A TypeScript port of Ritual's Python-based Infernet Node — bringing the off-chain compute coordination layer to the JS/TS ecosystem. |
+<p align="center">
+  <a href="https://github.com/BunsDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/BunsDev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://BunsDev.com"><img src="https://img.shields.io/badge/BunsDev.com-9A8ECD?style=for-the-badge&logo=safari&logoColor=white" alt="BunsDev website" /></a>
+  <a href="https://discord.gg/opencoven"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="OpenCoven Discord" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+</div>
 
 ---
 
