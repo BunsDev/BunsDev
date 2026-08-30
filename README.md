@@ -17,7 +17,7 @@ Every tool we craft, every system we design, every line of code we commit is a s
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -84,7 +84,7 @@ Every tool we craft, every system we design, every line of code we commit is a s
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunsDev&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D0718&title_color=A78BFA&text_color=EDE9FE&icon_color=8B5CF6&border_color=6D28D9" alt="BunsDev GitHub stats" />
@@ -97,7 +97,7 @@ Every tool we craft, every system we design, every line of code we commit is a s
 
 ---
 
-### 📫 Connect with me
+## Connect with me
 
 <p align="center">
   <a href="https://github.com/BunsDev"><img src="https://img.shields.io/badge/GitHub-0B0714?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
