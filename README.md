@@ -86,10 +86,10 @@ Every tool we craft, every system we design, every line of code we commit is a s
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunsDev&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D0718&title_color=A78BFA&text_color=EDE9FE&icon_color=8B5CF6&border_color=6D28D9" alt="BunsDev GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunsDev&layout=compact&langs_count=8&bg_color=0D0718&title_color=A78BFA&text_color=EDE9FE&border_color=6D28D9" alt="BunsDev top languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=BunsDev&background=0D0718&border=6D28D9&stroke=6D28D9&ring=A78BFA&fire=8B5CF6&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=C4B5FD" alt="BunsDev GitHub streak" />
