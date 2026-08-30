@@ -100,7 +100,6 @@ Every tool we craft, every system we design, every line of code we commit is a s
 ## Connect with me
 
 <p align="center">
-  <a href="https://github.com/BunsDev"><img src="https://img.shields.io/badge/GitHub-0B0714?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
   <a href="https://x.com/BunsDev"><img src="https://img.shields.io/badge/X-0B0714?style=for-the-badge&logo=x&logoColor=A78BFA" alt="X" /></a>
   <a href="https://BunsDev.com"><img src="https://img.shields.io/badge/BunsDev.com-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="BunsDev website" /></a>
   <a href="https://discord.gg/opencoven"><img src="https://img.shields.io/badge/Discord-6D28D9?style=for-the-badge&logo=discord&logoColor=white" alt="OpenCoven Discord" /></a>
